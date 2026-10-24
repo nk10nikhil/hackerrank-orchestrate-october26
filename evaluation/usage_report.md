@@ -1,6 +1,6 @@
 # Full Dataset Usage Report
 
-Run completed: 2026-10-24 15:07:09Z
+Run completed: 2026-10-24 15:18:15Z
 
 The final run uses deterministic local parsing and policy rules. RapidOCR ran locally for each manifest image; no hosted language model or billable inference API was called.
 
